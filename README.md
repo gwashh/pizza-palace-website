@@ -8,7 +8,7 @@
 None
 
 ## Live link
-* Follow the link 
+* Follow the link https://gwashh.github.io/pizza-palace-website/
 
 ## Known Bugs
 {main.js is not linked to index.html }
