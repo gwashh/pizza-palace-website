@@ -3,7 +3,7 @@
 #### {A website Perry's pizza resturant }, {22/03/2022}
 #### By **{Perry sugut}**
 ## Description
-{A website where ou can order a pizza from Mariga's pizza restaurant}
+{A website where ou can order a pizza from Perry's pizza restaurant}
 ## Setup/Installation Requirements
 None
 
